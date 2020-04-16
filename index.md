@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Benvinguts a la meva pàgina web estàtica
 
-You can use the [editor on GitHub](https://github.com/sethei/Static_Website_Generator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blog de prova per la pràctica de Desplegament d'aplicacions web.
 
 ### Markdown
 
